@@ -1,0 +1,40 @@
+
+{
+  "name" : "Timestamp",
+  "description" : "Plugin to add timestamp to an artboard (it updates as you update the design).",
+  "version" : "1.0",
+  "identifier" : "com.sketchapp..examples.date",
+  "author" : "Rachit Gupta",
+  "authorEmail" : "rachitgupta75@gmail.com",
+  "homepage":"https://rachit91.github.io/",
+  "compatibleVersion": "46.2",
+  "appcast": "",
+  "commands" : [
+    {
+      "script" : "selection-changed.js",
+      "handlers" : {
+        "actions" : {
+           "SelectionChanged.finish" : "onSelectionChanged"
+           }
+      }
+    },
+    {
+      "script" : "addtimestamp.js",
+      "name" : "Add timestamp",
+      "handlers" : {
+        "run" : "addTimestamp"
+      },
+      "shortcut": "ctrl shift t",
+      "identifier" : "com.bohemiancoding.sketch.timestamp"
+    },
+    {
+      "script" : "toggletimestamps.js",
+      "name" : "Toggle timestamps",
+      "handlers" : {
+        "run" : "toggleTimestamps"
+      },
+      "shortcut": "ctrl shift y",
+      "identifier" : "com.bohemiancoding.sketch.toggletimestamp"
+    }
+  ],
+}
