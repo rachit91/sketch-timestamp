@@ -8,7 +8,7 @@
   "authorEmail" : "rachitgupta75@gmail.com",
   "homepage":"https://rachit91.github.io/",
   "compatibleVersion": "46.2",
-  "appcast": "",
+  "appcast": "https://rachit91.github.io/dump/resources/sketchplugin-xmls/timestamp.xml",
   "commands" : [
     {
       "script" : "selection-changed.js",
