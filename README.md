@@ -8,6 +8,10 @@ A Sketch plugin to add or toggle timestamps (last updated date) to the artboards
 
 # Installation
 
+<a href="https://sketchpacks.com/YOUR_NAME/PLUGIN_NAME/install">
+  <img width="160" height="41" src="http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png" >
+</a><br>
+
 1. Download latest .zip file via Github or 
 <a href="https://github.com/rachit91/sketch-timestamp/blob/master/versions/timestamp-V1.sketchplugin.zip/">**here**</a>.
 2. Unzip and double click to install it.
