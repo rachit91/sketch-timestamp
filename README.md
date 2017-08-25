@@ -2,7 +2,7 @@
 
 A Sketch plugin to add or toggle timestamps (last updated date) to the artboards on a page.
 
-<img src = "https://github.com/rachit91/sketch-timestamp/blob/master/timestamp_main_gif.gif"/>
+<img src = "https://github.com/rachit91/sketch-timestamp/blob/master/resources/assets/timestamp_main_gif.gif"/>
 
 <br>
 
@@ -43,7 +43,7 @@ Specifically, this is what this plugin can do:
 
 <br>
 
-<img src = "https://github.com/rachit91/sketch-timestamp/blob/master/timestamp_1_gif.gif"/>
+<img src = "https://github.com/rachit91/sketch-timestamp/blob/master/resources/assets/timestamp_1_gif.gif"/>
 
 <br><br>
 
@@ -51,7 +51,7 @@ Specifically, this is what this plugin can do:
 
 <br>
 
-<img src = "https://github.com/rachit91/sketch-timestamp/blob/master/timestamp_gif_2.gif"/>
+<img src = "https://github.com/rachit91/sketch-timestamp/blob/master/resources/assets/timestamp_gif_2.gif"/>
 
 <br><br>
 
@@ -59,7 +59,7 @@ Specifically, this is what this plugin can do:
 
 <br>
 
-<img src = "https://github.com/rachit91/sketch-timestamp/blob/master/timestamp_gif_3.gif"/>
+<img src = "https://github.com/rachit91/sketch-timestamp/blob/master/resources/assets/timestamp_gif_3.gif"/>
 
 <br><br>
 
